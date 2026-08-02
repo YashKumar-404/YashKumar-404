@@ -16,7 +16,7 @@
 
 ## Competitive Programming & Achievements
 
-- **LeetCode:** Knight rank with a peak contest rating of 1904 and over 650 solved DSA problems.
+- **LeetCode:** Knight rank with a peak contest rating of 1904 and over 800 solved DSA problems.
 - **CodeChef:** Rated 3-star with a maximum rating of 1654.
 - **Codeforces:** Pupil rank with a maximum rating of 1251.
 - **Consistency:** Earned the LeetCode 50 Days and 100 Days badges.
