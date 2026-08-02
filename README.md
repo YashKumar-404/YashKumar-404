@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yash Kumar</h1>
 
-<h3 align="center">B.Tech CSE Student at Indian Institute of Information Technology</h3>
+<h3 align="center">B.Tech CSE Student at Indian Institute of Information Technology Jabalpur</h3>
 
 ---
 
