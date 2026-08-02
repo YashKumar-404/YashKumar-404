@@ -9,8 +9,7 @@
 - I’m currently a Bachelor of Technology student majoring in Computer Science and Engineering.
 - I am experienced in Data Structures & Algorithms, Object-Oriented Programming, and Data Science.
 - I actively participate in hackathons like Smart India Hackathon and competitive programming events.
-- Outside of coding, I volunteer with Jagriti, teaching underprivileged children.
-- How to reach me: [yashk7072@gmail.com](mailto:yashk7072@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/yash-kumar).
+- Contact: [yashk7072@gmail.com](mailto:yashk7072@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/yash-kumar).
 
 ---
 
@@ -19,7 +18,7 @@
 - **LeetCode:** Knight rank with a peak contest rating of 1904 and over 800 solved DSA problems.
 - **CodeChef:** Rated 3-star with a maximum rating of 1654.
 - **Codeforces:** Pupil rank with a maximum rating of 1251.
-- **Consistency:** Earned the LeetCode 50 Days and 100 Days badges.
+- **Consistency:** Earned 10+ badges on LeetCode.
 
 ---
 
