@@ -1,36 +1,43 @@
 <h1 align="center">Hi there, I'm Yash Kumar 👋</h1>
 
-<h3 align="center">A passionate developer crafting code and building solutions.</h3>
+<h3 align="center">B.Tech CSE Student at Indian Institute of Information Technology[cite: 1]</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Insert your current project/company]**
-- 🌱 I’m currently learning **[Insert technologies, e.g., React, Go, Machine Learning]**
-- 👯 I’m looking to collaborate on **[Insert open-source projects or project types]**
-- 💬 Ask me about **[Insert your areas of expertise, e.g., Web Dev, Python, UI/UX]**
-- 📫 How to reach me: **[Insert your email]** or connect with me on [LinkedIn](#)
-- ⚡ Fun fact: **[Insert a fun fact, e.g., I can debug code in my sleep / I love playing chess]**
+- 🔭 I’m currently a Bachelor of Technology student majoring in Computer Science and Engineering.[cite: 1]
+- 🌱 I am experienced in Data Structures & Algorithms, Object-Oriented Programming, and Data Science.[cite: 1]
+- 💡 I actively participate in hackathons like Smart India Hackathon and competitive programming events.[cite: 1]
+- 🎓 Outside of coding, I volunteer with Jagriti, teaching underprivileged children.[cite: 1]
+- 📫 How to reach me: [yashk7072@gmail.com](mailto:yashk7072@gmail.com)[cite: 1] or connect with me on [LinkedIn](https://linkedin.com/in/yash-kumar).[cite: 1]
+
+---
+
+## 🏆 Competitive Programming & Achievements
+
+- **LeetCode:** Knight rank with a peak contest rating of 1904 and over 650 solved DSA problems.[cite: 1]
+- **CodeChef:** Rated 3-star with a maximum rating of 1654.[cite: 1]
+- **Codeforces:** Pupil rank with a maximum rating of 1251.[cite: 1]
+- **Consistency:** Earned the LeetCode 50 Days and 100 Days badges.[cite: 1]
+
+---
+
+## 🚀 Featured Projects
+
+- **Student Dropout Prediction System (SIH):** Developed a machine learning system using Python and Flask to identify at-risk students using academic and behavioral data, complete with an interactive dashboard.[cite: 1]
+- **Productivity Tracker CYHI:** Built a productivity web app with real-time task storage using JavaScript and Firebase, featuring streak tracking and activity visualization.[cite: 1]
+- **Weather Forecast Web App:** Designed a responsive React.js application integrating third-party APIs for live weather updates and dynamic city-based searches.[cite: 1]
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-*Replace the badges below with the technologies you actually use. You can find more badges at [shields.io](https://shields.io/).*
-
-**Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Tools & Databases:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+* **Languages:** C++, Python, Java, JavaScript, SQL[cite: 1]
+* **Frontend:** HTML, CSS, React.js, Tailwind CSS[cite: 1]
+* **Backend & Tools:** Node.js, Flask, Firebase, Git, GitHub[cite: 1]
+* **Databases:** MongoDB, SQL[cite: 1]
+* **Machine Learning:** TensorFlow[cite: 1]
 
 ---
 
@@ -43,9 +50,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKumar-404&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-<p align="center">
-  <i>Visitor Count</i><br>
-  <img src="https://profile-counter.glitch.me/YashKumar-404/count.svg" alt="Visitor Count" />
-</p>
