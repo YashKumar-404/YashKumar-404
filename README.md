@@ -45,18 +45,12 @@
 
 [![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashKumar-404&theme=tokyo-night)](https://github.com/YashKumar-404)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YashKumar-404/YashKumar-404/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=YashKumar-404&color=blue&style=for-the-badge)
 
 ## 🌐 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/yash-kumar
+- **LinkedIn:** https://linkedin.com/in/yash-kumar](https://www.linkedin.com/in/yash-kumar-7660b0324/
 - **GitHub:** https://github.com/YashKumar-404
 - **Email:** yashk7072@gmail.com
 
