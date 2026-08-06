@@ -62,24 +62,6 @@
 - Knight on LeetCode (Peak Rating: 1904) with 650+ solved DSA problems and earned 50 Days/100 Days badges.
 - Rated 3-star on CodeChef (Max Rating: 1654) and Pupil on Codeforces (Max Rating: 1251).
 - Participated in Smart India Hackathon, Can You Hack It, and CodeArena.
-- Volunteered with Jagriti to teach underprivileged children, and assisted in organizing collegiate society events like Hunterstellar and Odysea.
-
-## 📊 Stats
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YashKumar-404&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-## 🔗 Activity Graph
-
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashKumar-404&theme=tokyo-night)](https://github.com/YashKumar-404)
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YashKumar-404&color=blue&style=for-the-badge)
 
 ## 🌐 Connect With Me
 - **LinkedIn:** www.linkedin.com/in/yash-kumar-7660b0324
