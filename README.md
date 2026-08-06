@@ -82,7 +82,7 @@
 ![](https://komarev.com/ghpvc/?username=YashKumar-404&color=blue&style=for-the-badge)
 
 ## 🌐 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/yash-kumar](https://www.linkedin.com/in/yash-kumar-7660b0324/
+- **LinkedIn:** www.linkedin.com/in/yash-kumar-7660b0324
 - **GitHub:** https://github.com/YashKumar-404
 - **Email:** yashk7072@gmail.com
 
