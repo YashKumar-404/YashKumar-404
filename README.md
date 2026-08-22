@@ -37,14 +37,10 @@
 
 <!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26" /> &nbsp;About Me
+## 👋 &nbsp;About Me
 
 > Third-year CSE undergraduate who likes turning hard problems into shipped software —
 > from ML dashboards to production web apps, with a daily habit of competitive programming.
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
 
 - 🎓 &nbsp;**B.Tech CSE** at Indian Institute of Information Technology, **Jabalpur**
 - 🧠 &nbsp;Focused on **Web Development**, **Machine Learning**, **DSA**, and **DBMS**
@@ -52,17 +48,6 @@
 - ⚔️ &nbsp;Active competitive programmer — **Knight** on LeetCode, **3★** on CodeChef, **Pupil** on Codeforces
 - 🚀 &nbsp;Building real-world projects and competing in **SIH** and **Can You Hack It**
 - 📫 &nbsp;Reach me at **yashk7072@gmail.com**
-
-  </td>
-    <td width="45%" valign="top" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashKumar-404&theme=github_dark"
-        alt="Most used languages by commit"
-        width="340"
-      />
-    </td>
-  </tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3&section=header" width="100%" alt="" />
 
@@ -163,8 +148,8 @@
   &nbsp;
   <img
     height="200"
-    src="https://streak-stats.demolab.com?user=YashKumar-404&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
-    alt="Contribution streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashKumar-404&theme=github_dark"
+    alt="Top languages by commit"
   />
 </div>
 
