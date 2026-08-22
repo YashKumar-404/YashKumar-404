@@ -1,10 +1,14 @@
 <!-- ═══════════════════════════════ BANNER ═══════════════════════════════ -->
 
 <div align="center">
+  <!-- Source image is 1280x720 (16:9). Displaying at 700px keeps it on the same
+       grid as the profile-details card below and caps the banner at ~394px tall.
+       Switch to width="100%" for a full-bleed banner (~490px tall). -->
   <img
-    src="https://avatars.githubusercontent.com/u/192852439?s=400&u=fa3fd80f7aae1029e81b46a96dfb1ab6bae4d99b&v=4"
+    src="https://4kwallpapers.com/images/walls/thumbs_3t/14025.png"
     alt="Yash Kumar"
-    width="100%"
+    width="700"
+  />
 </div>
 
 <div align="center">
