@@ -1,71 +1,302 @@
-<h1 align="center">Hi, I'm Yash Kumar</h1>
+<!-- ═══════════════════════════════ BANNER ═══════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=58A6FF&center=true&vCenter=true&width=1000&lines=B.Tech+CSE+Student+@+IIIT+Jabalpur;LeetCode+Knight+&+CodeChef+3⭐;Full-Stack+Web+&+ML+Developer;Competitive+Programmer)](https://git.io/typing-svg)
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Yash%20Kumar&fontSize=68&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=B.Tech%20CSE%20%40%20IIIT%20Jabalpur%20%C2%B7%20Full-Stack%20%26%20ML%20Developer&descSize=17&descAlignY=54"
+    alt="Yash Kumar"
+    width="100%"
+  />
+</div>
 
-- B.Tech CSE student at Indian Institute of Information Technology, Jabalpur
-- Interested in Web Development, Machine Learning, Data Structures & Algorithms, and Database Management Systems
-- Expanding skills in Object-Oriented Programming (Java), Python, C++, and modern web frameworks
-- Active Competitive Programmer: Knight on LeetCode (1904 rating), 3-star on CodeChef, and Pupil on Codeforces
-- Actively building real-world projects and participating in hackathons like Smart India Hackathon (SIH) and Can You Hack It
+<div align="center">
+  <a href="https://github.com/YashKumar-404">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=48&lines=LeetCode+Knight+%E2%80%A2+1904+rated;650%2B+DSA+problems+solved;Full-Stack+Web+%2B+Machine+Learning;Competitive+Programmer+%26+Hackathon+Builder"
+      alt="What I do"
+    />
+  </a>
+</div>
 
-## ⚒️ Skills
-- **Languages:** C++, Python, Java, JavaScript, SQL <br>
-- **Frontend:** HTML, CSS, React.js, Tailwind CSS <br>
-- **Backend & Tools:** Node.js, Flask, Firebase, Git, GitHub <br>
-- **Databases & Machine Learning:** MongoDB, SQL, TensorFlow <br>
-- **Core Subjects:** Data Structures & Algorithms, OOP, DBMS, Computer Networks, Data Science <br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yash-kumar-7660b0324">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yashk7072@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/YashKumar-404?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-161B22?style=flat-square&logo=github&logoColor=58A6FF" alt="Repositories" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YashKumar-404&style=flat-square&color=1F6FEB&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/YashKumar-404?tab=followers">
+    <img src="https://img.shields.io/github/followers/YashKumar-404?style=flat-square&color=1F6FEB&labelColor=161B22&logo=github&logoColor=white" alt="Followers" />
+  </a>
+</div>
 
-## 🚀 Tools and Languages
+<br />
 
-<p align="left">
+<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26" /> &nbsp;About Me
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+> Third-year CSE undergraduate who likes turning hard problems into shipped software —
+> from ML dashboards to production web apps, with a daily habit of competitive programming.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+- 🎓 &nbsp;**B.Tech CSE** at Indian Institute of Information Technology, **Jabalpur**
+- 🧠 &nbsp;Focused on **Web Development**, **Machine Learning**, **DSA**, and **DBMS**
+- ⚙️ &nbsp;Deepening **OOP (Java)**, **Python**, **C++**, and modern web frameworks
+- ⚔️ &nbsp;Active competitive programmer — **Knight** on LeetCode, **3★** on CodeChef, **Pupil** on Codeforces
+- 🚀 &nbsp;Building real-world projects and competing in **SIH** and **Can You Hack It**
+- 📫 &nbsp;Reach me at **yashk7072@gmail.com**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </td>
+    <td width="45%" valign="top" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashKumar-404&theme=github_dark"
+        alt="Most used languages by commit"
+        width="340"
+      />
+    </td>
+  </tr>
+</table>
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3&section=header" width="100%" alt="" />
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+## 🛠 &nbsp;Tech Stack
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<table align="center">
+  <tr>
+    <td align="right" width="26%"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,python,java,js,mysql&theme=dark" alt="C++, Python, Java, JavaScript, SQL" height="42" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="HTML, CSS, React, Tailwind CSS" height="42" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend &amp; Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,git,github,vercel&theme=dark" alt="Node.js, Flask, Firebase, Git, GitHub, Vercel" height="42" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data &amp; ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,tensorflow&theme=dark" alt="MongoDB, TensorFlow" height="42" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+  <sub>
+    <b>Core CS</b> &nbsp;·&nbsp; Data Structures &amp; Algorithms &nbsp;·&nbsp; Object-Oriented Programming
+    &nbsp;·&nbsp; DBMS &nbsp;·&nbsp; Computer Networks &nbsp;·&nbsp; Data Science
+  </sub>
+</div>
 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3&section=header" width="100%" alt="" />
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<!-- ═══════════════════════════════ THE SNAKE ═══════════════════════════════ -->
 
-</p>
+## 🐍 &nbsp;Contribution Snake
 
----
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YashKumar-404/YashKumar-404/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YashKumar-404/YashKumar-404/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/YashKumar-404/YashKumar-404/output/github-snake.svg"
+      alt="Snake eating my contribution graph"
+      width="100%"
+    />
+  </picture>
+</div>
 
-## 🗂️ Projects
+<!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
 
-- <h4>Student Dropout Prediction System (SIH)</h4> 
-  Developed a machine learning-based system using Python and Flask to identify at-risk students using academic and behavioral data. Built an interactive dashboard to visualize analytics and prediction insights for end users.
+## 📊 &nbsp;GitHub Analytics
 
-- <h4>Productivity Tracker CYHI</h4>
-  Built a productivity tracking web application using HTML, CSS, JavaScript, and Vercel. Implemented real-time task storage and synchronization using Firebase, alongside streak tracking features.
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashKumar-404&theme=github_dark"
+    alt="Profile summary"
+    width="700"
+  />
+</div>
 
-- <h4>Weather Forecast Web App</h4> 
-  Built a React-based weather forecasting application integrating third-party APIs for real-time updates. Implemented dynamic city-based search with a responsive UI optimized for desktop and mobile.
+<div align="center">
+  <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashKumar-404&theme=github_dark"
+    alt="GitHub stats"
+  />
+  &nbsp;
+  <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashKumar-404&theme=github_dark&utcOffset=5.5"
+    alt="Most productive time of day"
+  />
+</div>
 
-## 🏆 Achievements and Fields of Interest
-- Knight on LeetCode (Peak Rating: 1904) with 650+ solved DSA problems and earned 50 Days/100 Days badges.
-- Rated 3-star on CodeChef (Max Rating: 1654) and Pupil on Codeforces (Max Rating: 1251).
-- Participated in Smart India Hackathon, Can You Hack It, and CodeArena.
+<div align="center">
+  <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashKumar-404&theme=github_dark"
+    alt="Top languages by repository"
+  />
+  &nbsp;
+  <img
+    height="200"
+    src="https://streak-stats.demolab.com?user=YashKumar-404&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
+    alt="Contribution streak"
+  />
+</div>
 
-## 🌐 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/yash-kumar-7660b0324
-- **GitHub:** https://github.com/YashKumar-404
-- **Email:** yashk7072@gmail.com
+<br />
 
----
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YashKumar-404&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity"
+    alt="Contribution activity graph"
+    width="100%"
+  />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3&section=header" width="100%" alt="" />
+
+<!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
+
+## 🗂 &nbsp;Featured Projects
+
+<table>
+  <tr>
+    <th width="30%" align="left">Project</th>
+    <th width="52%" align="left">What it does</th>
+    <th width="18%" align="left">Built with</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Student Dropout Prediction System</b><br />
+      <sub>Smart India Hackathon</sub>
+    </td>
+    <td valign="top">
+      ML system that flags at-risk students from academic and behavioural data, with an
+      interactive dashboard visualising analytics and prediction insights.
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" height="26" alt="Python, Flask" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/YashKumar-404/Productivity-Tracker-TLE-"><b>Productivity Tracker</b></a><br />
+      <sub>Can You Hack It</sub>
+    </td>
+    <td valign="top">
+      Productivity web app with real-time task storage, cross-device sync and streak
+      tracking, deployed on Vercel.
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=js,firebase,vercel&theme=dark" height="26" alt="JavaScript, Firebase, Vercel" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/YashKumar-404/Weather.io"><b>Weather.io</b></a><br />
+      <sub>Weather forecasting app</sub>
+    </td>
+    <td valign="top">
+      React weather app pulling live third-party API data, with dynamic city search and a
+      responsive layout tuned for desktop and mobile.
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=react,js,css&theme=dark" height="26" alt="React, JavaScript, CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/YashKumar-404/MovieHub"><b>MovieHub</b></a><br />
+      <sub>Movie &amp; show discovery</sub>
+    </td>
+    <td valign="top">
+      Search across movies and shows and curate a personal favourites list.
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="26" alt="JavaScript, HTML, CSS" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3&section=header" width="100%" alt="" />
+
+<!-- ═══════════════════════════════ CP ═══════════════════════════════ -->
+
+## 🏆 &nbsp;Competitive Programming
+
+<div align="center">
+
+| Platform | Rank | Peak Rating |
+| :-- | :-- | :-- |
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /> | **Knight** | **1904** |
+| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /> | **3★** | **1654** |
+| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /> | **Pupil** | **1251** |
+
+</div>
+
+- **650+** DSA problems solved, with **50 Days** and **100 Days** LeetCode badges earned
+- Competed in **Smart India Hackathon**, **Can You Hack It**, and **CodeArena**
+
+<!--
+  Optional: drop in a live LeetCode stats card.
+  Replace YOUR_LEETCODE_USERNAME below and uncomment.
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0" alt="LeetCode stats" />
+</div>
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3&section=header" width="100%" alt="" />
+
+<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
+
+## 🤝 &nbsp;Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yash-kumar-7660b0324">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yashk7072@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/YashKumar-404">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>Open to internships, collaborations, and interesting problems worth arguing about.</i>
+</div>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,55:1F6FEB,100:0D1117&height=130&section=footer"
+  width="100%"
+  alt=""
+/>
