@@ -23,6 +23,13 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          # The default github.token acts as github-actions[bot], which GraphQL
+          # only ever shows PUBLIC contributions - the "Include private
+          # contributions on my profile" setting does not apply to it. To make
+          # the snake eat private contributions too, add a repo secret named
+          # SNAKE_TOKEN holding a PAT with the read:user scope. Falls back to
+          # the default token (public contributions only) when unset.
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
