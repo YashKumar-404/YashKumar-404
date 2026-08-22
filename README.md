@@ -1,9 +1,10 @@
 <!-- ═══════════════════════════════ BANNER ═══════════════════════════════ -->
 
+<!-- 
 <div align="center">
-  <!-- Source image is 1280x720 (16:9). Displaying at 700px keeps it on the same
+ Source image is 1280x720 (16:9). Displaying at 700px keeps it on the same
        grid as the profile-details card below and caps the banner at ~394px tall.
-       Switch to width="100%" for a full-bleed banner (~490px tall). -->
+       Switch to width="100%" for a full-bleed banner (~490px tall).
   <img
     src="https://4kwallpapers.com/images/walls/thumbs_3t/14025.png"
     alt="Yash Kumar"
@@ -11,6 +12,7 @@
   />
 </div>
 
+-->
 <div align="center">
   <a href="https://github.com/YashKumar-404">
     <img
