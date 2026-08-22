@@ -7,7 +7,7 @@
   <img
     src="https://4kwallpapers.com/images/walls/thumbs_3t/14025.png"
     alt="Yash Kumar"
-    width="700"
+    width="200"
   />
 </div>
 
