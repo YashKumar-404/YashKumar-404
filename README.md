@@ -2,10 +2,9 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Yash%20Kumar&fontSize=68&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=B.Tech%20CSE%20%40%20IIIT%20Jabalpur%20%C2%B7%20Full-Stack%20%26%20ML%20Developer&descSize=17&descAlignY=54"
+    src="https://avatars.githubusercontent.com/u/192852439?s=400&u=fa3fd80f7aae1029e81b46a96dfb1ab6bae4d99b&v=4"
     alt="Yash Kumar"
     width="100%"
-  />
 </div>
 
 <div align="center">
