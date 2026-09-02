@@ -249,7 +249,7 @@
 
 </div>
 
-- **650+** DSA problems solved, with **50 Days** and **100 Days** LeetCode badges earned
+- **850+** DSA problems solved, with **10+** LeetCode badges earned
 - Competed in **Smart India Hackathon**, **Can You Hack It**, and **CodeArena**
 
 <!--
