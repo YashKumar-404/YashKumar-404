@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/YashKumar-404">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=48&lines=LeetCode+Knight+%E2%80%A2+1904+rated;650%2B+DSA+problems+solved;Full-Stack+Web+%2B+Machine+Learning;Competitive+Programmer+%26+Hackathon+Builder"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=48&lines=LeetCode+Knight+%E2%80%A2+1904+rated;850%2B+DSA+problems+solved;Full-Stack+Web+%2B+Machine+Learning;Competitive+Programmer+%26+Hackathon+Builder"
       alt="What I do"
     />
   </a>
