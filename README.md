@@ -182,7 +182,7 @@
   </tr>
   <tr>
     <td valign="top">
-      <b>Student Dropout Prediction System</b><br />
+      <a href="https://github.com/DROPOUT-RATE-PREDICTOR/Innovatrix"><b>Student Dropout Prediction System</b></a><br />
       <sub>Smart India Hackathon</sub>
     </td>
     <td valign="top">
@@ -208,32 +208,35 @@
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/YashKumar-404/Weather.io"><b>Weather.io</b></a><br />
-      <sub>Weather forecasting app</sub>
+      <a href="https://github.com/YashKumar-404/Deep-Learning/tree/main/Models/Cancer-prediction-system"><b>Cancer Detection System</b></a><br />
+      <sub>CNN-based Medical Image Classification</sub>
     </td>
     <td valign="top">
-      React weather app pulling live third-party API data, with dynamic city search and a
-      responsive layout tuned for desktop and mobile.
+      Deep learning system that analyzes medical images using a Convolutional Neural
+      Network (CNN) to classify images for cancer detection, with model-based prediction
+      insights.
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=react,js,css&theme=dark" height="26" alt="React, JavaScript, CSS" />
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,flask&theme=dark" height="26" alt="Python, TensorFlow, Flask" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <a href="https://github.com/YashKumar-404/MovieHub"><b>MovieHub</b></a><br />
-      <sub>Movie &amp; show discovery</sub>
+      <sub>Movie Discovery & Recommendation</sub>
     </td>
     <td valign="top">
-      Search across movies and shows and curate a personal favourites list.
+      Movie and show discovery platform with an integrated recommendation system that
+      suggests similar movies based on user preferences and movie features.
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="26" alt="JavaScript, HTML, CSS" />
+      <img src="https://skillicons.dev/icons?i=python,flask,js,html,css&theme=dark" height="26" alt="Python, Flask, JavaScript, HTML, CSS" />
     </td>
   </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3&section=header" width="100%" alt="" />
+
 
 <!-- ═══════════════════════════════ CP ═══════════════════════════════ -->
 
